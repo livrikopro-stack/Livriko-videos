@@ -2,6 +2,12 @@
   "derniere_publication_tiktok": "2026-11-24T20:38:00+01:00",
   "videos_publiees": 1,
   "prochain_type": "livre_gratuit",
-  "ordre_types": ["livre_gratuit", "livre_payant", "site_marketplace"],
-  "intervalle_heures": 37.2
+  "ordre_types": [
+    "livre_gratuit",
+    "livre_payant",
+    "site_marketplace"
+  ],
+  "intervalle_heures": 37.2,
+  "script_actuel": "scripts/make_video_pro_v2.py",
+  "cadrage_valide": "zone sûre x 150-930, y 260-1440 (validé par l'utilisateur le 2026-11-24)"
 }
