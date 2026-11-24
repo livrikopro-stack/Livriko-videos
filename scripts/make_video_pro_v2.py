@@ -4,8 +4,8 @@ from PIL import Image, ImageDraw, ImageFont, ImageChops, ImageFilter
 import os
 OUT = sys.argv[1]
 TEST = len(sys.argv) > 2 and sys.argv[2] == "test"  # mode test : quelques images seulement
-DUREE = float(os.environ.get("DUREE", "10"))  # secondes (5, 6, 8, 9 ou 10 ; jamais plus de 10)
-assert DUREE <= 10
+DUREE = float(os.environ.get("DUREE", "10"))  # secondes (entre 5 et 20 ; jamais plus de 20)
+assert DUREE <= 20  # plafond fixé par l’utilisateur : entre 5 et 20 secondes
 W, H, FPS = 1080, 1920, 30
 N = int(DUREE * FPS)
 K = N / 300.0  # échelle des temps (le script est écrit pour 10 s)
