@@ -1,5 +1,5 @@
 {
-  "derniere_publication_tiktok": "2026-11-26T09:55:00+01:00",
+  "derniere_publication_tiktok": "2026-11-26T09:58:00+01:00",
   "videos_publiees": 2,
   "prochain_type": "livre_gratuit",
   "ordre_types": [
@@ -16,5 +16,8 @@
   ],
   "derniere_duree_secondes": 15,
   "derniere_video": "videos/02-noel-cadeaux-pdf.mp4",
-  "note_passage_02": "livre_gratuit impossible (livriko.com et dépôt du site inaccessibles) : vidéo livre_payant faite à la place ; type gratuit repris au prochain passage"
+  "note_passage_02": "livre_gratuit impossible (livriko.com et dépôt du site inaccessibles) : vidéo livre_payant faite à la place ; type gratuit repris au prochain passage",
+  "derniere_publication_postsyncer": "2026-11-26T11:26:00+01:00",
+  "derniere_publication_buffer": "2026-11-24T21:50:00+01:00",
+  "derniere_publication_facebook": "2026-11-24T20:40:00+01:00"
 }
