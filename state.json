@@ -1,6 +1,6 @@
 {
-  "derniere_publication_tiktok": "2026-11-24T20:38:00+01:00",
-  "videos_publiees": 1,
+  "derniere_publication_tiktok": "2026-11-26T09:55:00+01:00",
+  "videos_publiees": 2,
   "prochain_type": "livre_gratuit",
   "ordre_types": [
     "livre_gratuit",
@@ -8,10 +8,13 @@
     "site_marketplace"
   ],
   "intervalle_heures": 37.2,
-  "script_actuel": "scripts/make_video_pro_v2.py",
+  "script_actuel": "scripts/make_video_02.py",
   "cadrage_valide": "zone sûre x 150-930, y 260-1440 (validé par l'utilisateur le 2026-11-24)",
   "duree_min_max_secondes": [
     5,
     20
-  ]
+  ],
+  "derniere_duree_secondes": 15,
+  "derniere_video": "videos/02-noel-cadeaux-pdf.mp4",
+  "note_passage_02": "livre_gratuit impossible (livriko.com et dépôt du site inaccessibles) : vidéo livre_payant faite à la place ; type gratuit repris au prochain passage"
 }
