@@ -19,5 +19,13 @@
   "note_passage_02": "livre_gratuit impossible (livriko.com et dépôt du site inaccessibles) : vidéo livre_payant faite à la place ; type gratuit repris au prochain passage",
   "derniere_publication_postsyncer": "2026-11-26T11:26:00+01:00",
   "derniere_publication_buffer": "2026-11-24T21:50:00+01:00",
-  "derniere_publication_facebook": "2026-11-24T20:40:00+01:00"
+  "derniere_publication_facebook": "2026-11-24T20:40:00+01:00",
+  "video_preparee": {
+    "fichier": "videos/03-guide-livriko.mp4",
+    "titre": "Le guide de LIVRIKO, offert",
+    "duree_secondes": 45,
+    "type": "livre_gratuit",
+    "script": "scripts/make_video_03.py",
+    "note": "préparée le 27/11 à la demande de l'utilisateur (guide gratuit de 16 pages, https://livriko.com/business/le-guide-de-livriko) ; 45 s autorisées pour cette vidéo seulement ; à publier au passage du 27/11 à 23:05"
+  }
 }
