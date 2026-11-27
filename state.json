@@ -1,7 +1,7 @@
 {
-  "derniere_publication_tiktok": "2026-11-26T09:58:00+01:00",
-  "videos_publiees": 2,
-  "prochain_type": "livre_gratuit",
+  "derniere_publication_tiktok": "2026-11-27T23:13:00+01:00",
+  "videos_publiees": 3,
+  "prochain_type": "livre_payant",
   "ordre_types": [
     "livre_gratuit",
     "livre_payant",
@@ -14,30 +14,34 @@
     5,
     20
   ],
-  "derniere_duree_secondes": 15,
-  "derniere_video": "videos/02-noel-cadeaux-pdf.mp4",
-  "note_passage_02": "livre_gratuit impossible (livriko.com et dépôt du site inaccessibles) : vidéo livre_payant faite à la place ; type gratuit repris au prochain passage",
-  "derniere_publication_postsyncer": "2026-11-26T11:26:00+01:00",
-  "derniere_publication_buffer": "2026-11-24T21:50:00+01:00",
-  "derniere_publication_facebook": "2026-11-24T20:40:00+01:00",
-  "video_preparee": {
-    "fichier": "videos/03-guide-livriko.mp4",
-    "titre": "Le guide de LIVRIKO, offert",
-    "duree_secondes": 45,
-    "type": "livre_gratuit",
-    "script": "scripts/make_video_03.py",
-    "note": "préparée le 27/11 à la demande de l'utilisateur (guide gratuit de 16 pages, https://livriko.com/business/le-guide-de-livriko) ; 45 s autorisées pour cette vidéo seulement ; à publier au passage du 27/11 à 23:05",
-    "legende": "Le guide de LIVRIKO est offert : 16 pages pour tout comprendre du site (créer son compte, acheter et télécharger, être remboursé, vendre, stockage, être payé). Téléchargement gratuit avec un compte gratuit. Lien : https://livriko.com/business/le-guide-de-livriko"
-  },
-  "file_videos_preparees": [
+  "derniere_duree_secondes": 45,
+  "derniere_video": "videos/03-guide-livriko.mp4",
+  "derniere_publication_postsyncer": "2026-11-28T00:38:00+01:00",
+  "derniere_publication_buffer": "2026-11-28T00:14:00+01:00",
+  "derniere_publication_facebook": "2026-11-28T17:40:00+01:00",
+  "file_videos_preparees": [],
+  "videos_preparees_publiees": [
     {
-      "fichier": "videos/04-guide-depot-gratuit.mp4",
-      "titre": "Guide du dépôt gratuit LIVRIKO",
-      "duree_secondes": 40,
+      "fichier": "videos/03-guide-livriko.mp4",
+      "titre": "Le guide de LIVRIKO, offert",
+      "duree_secondes": 45,
       "type": "livre_gratuit",
-      "script": "scripts/make_video_04.py",
-      "legende": "Déposez un livre gratuit sur LIVRIKO, pas à pas : le Guide du dépôt gratuit (13 pages, PDF gratuit) explique l'inscription gratuite, l'espace vendeur ouvert sans candidature, le choix « Livre gratuit » et la mise en ligne immédiate. Lien : https://livriko.com/business/guide-du-depot-gratuit-livriko",
-      "note": "préparée le 27/11 à la demande de l'utilisateur ; 30 à 40 s autorisées pour cette vidéo (« 30 secondes ou 40 pas plus ») ; nom LIVRIKO accepté sur la couverture (guide du site)"
+      "script": "scripts/make_video_03.py",
+      "note": "préparée le 27/11 à la demande de l'utilisateur (guide gratuit de 16 pages, https://livriko.com/business/le-guide-de-livriko) ; 45 s autorisées pour cette vidéo seulement ; à publier au passage du 27/11 à 23:05",
+      "legende": "Le guide de LIVRIKO est offert : 16 pages pour tout comprendre du site (créer son compte, acheter et télécharger, être remboursé, vendre, stockage, être payé). Téléchargement gratuit avec un compte gratuit. Lien : https://livriko.com/business/le-guide-de-livriko",
+      "reseaux_restants": [],
+      "publiee_tiktok": "2026-11-27T23:13:00+01:00",
+      "note_publication": "Publiée au passage du 27/11 : TikTok 23:13, Buffer (Instagram, X, Pinterest) 28/11 00:14, PostSyncer YouTube 28/11 00:38 (Threads ignoré : compte à reconnecter), Facebook 28/11 17:40"
     }
-  ]
+  ],
+  "video_preparee": {
+    "fichier": "videos/04-guide-depot-gratuit.mp4",
+    "titre": "Guide du dépôt gratuit LIVRIKO",
+    "duree_secondes": 40,
+    "type": "livre_gratuit",
+    "script": "scripts/make_video_04.py",
+    "legende": "Déposez un livre gratuit sur LIVRIKO, pas à pas : le Guide du dépôt gratuit (13 pages, PDF gratuit) explique l'inscription gratuite, l'espace vendeur ouvert sans candidature, le choix « Livre gratuit » et la mise en ligne immédiate. Lien : https://livriko.com/business/guide-du-depot-gratuit-livriko",
+    "note": "préparée le 27/11 à la demande de l'utilisateur ; 30 à 40 s autorisées pour cette vidéo (« 30 secondes ou 40 pas plus ») ; nom LIVRIKO accepté sur la couverture (guide du site)"
+  },
+  "note_threads": "27/11 : compte Threads livriko (PostSyncer 8387) à reconnecter (jeton invalidé), ignoré pour la vidéo 03"
 }
