@@ -41,7 +41,14 @@
     "type": "livre_gratuit",
     "script": "scripts/make_video_04.py",
     "legende": "Déposez un livre gratuit sur LIVRIKO, pas à pas : le Guide du dépôt gratuit (13 pages, PDF gratuit) explique l'inscription gratuite, l'espace vendeur ouvert sans candidature, le choix « Livre gratuit » et la mise en ligne immédiate. Lien : https://livriko.com/business/guide-du-depot-gratuit-livriko",
-    "note": "préparée le 27/11 à la demande de l'utilisateur ; 30 à 40 s autorisées pour cette vidéo (« 30 secondes ou 40 pas plus ») ; nom LIVRIKO accepté sur la couverture (guide du site)"
+    "note": "préparée le 27/11 à la demande de l'utilisateur ; 30 à 40 s autorisées pour cette vidéo (« 30 secondes ou 40 pas plus ») ; nom LIVRIKO accepté sur la couverture (guide du site)",
+    "couverture_ms": 7000,
+    "note_couverture": "la vidéo 04 commence sur un fond bleu vide : utiliser la couverture à 7 s (couverture du guide bien visible) sur tous les réseaux"
   },
-  "note_threads": "27/11 : compte Threads livriko (PostSyncer 8387) à reconnecter (jeton invalidé), ignoré pour la vidéo 03"
+  "note_threads": "27/11 : compte Threads livriko (PostSyncer 8387) à reconnecter (jeton invalidé), ignoré pour la vidéo 03",
+  "ouvertures_recentes": [
+    "fond bleu étoilé vide (02)",
+    "fond bleu étoilé vide (03)",
+    "fond bleu étoilé vide (04, couverture forcée à 7 s)"
+  ]
 }
