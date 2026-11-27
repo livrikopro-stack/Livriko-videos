@@ -11,8 +11,8 @@
   "script_actuel": "scripts/make_video_02.py",
   "cadrage_valide": "zone sûre x 150-930, y 260-1440 (validé par l'utilisateur le 2026-11-24)",
   "duree_min_max_secondes": [
-    5,
-    20
+    10,
+    30
   ],
   "derniere_duree_secondes": 45,
   "derniere_video": "videos/03-guide-livriko.mp4",
