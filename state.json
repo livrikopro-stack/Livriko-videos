@@ -52,5 +52,6 @@
     "fond bleu étoilé vide (04, couverture forcée à 7 s)"
   ],
   "musiques_recentes": [],
-  "musiques_note": "depuis le 28/11 : musiques Pixabay choisies par l'utilisateur dans musiques/ (voir règle MUSIQUE), plus make_music.py"
+  "musiques_note": "depuis le 28/11 : musiques Pixabay choisies par l'utilisateur dans musiques/ (voir règle MUSIQUE), plus make_music.py",
+  "dernier_site_marketplace_auteurs": false
 }
