@@ -19,7 +19,22 @@
   "derniere_publication_postsyncer": "2026-11-28T00:38:00+01:00",
   "derniere_publication_buffer": "2026-11-28T00:14:00+01:00",
   "derniere_publication_facebook": "2026-11-28T17:40:00+01:00",
-  "file_videos_preparees": [],
+  "file_videos_preparees": [
+    {
+      "fichier": "videos/05-avent-jour1-planner-2027.mp4",
+      "titre": "Planner 2027 à imprimer : idée cadeau",
+      "duree_secondes": 20,
+      "type": "livre_payant",
+      "script": "scripts/make_video_05.py",
+      "musique": "musiques/03-pop-funk-disco-musinova.mp3",
+      "couverture_ms": 0,
+      "ouverture": "grande couverture verte et or du Planner 2027 + titre en gros",
+      "lien": "https://livriko.com/famille/planner-2027-a-imprimer",
+      "legende": "Planner 2027 à imprimer, case n°1 de notre calendrier de l'Avent. 80 pages en PDF A4 : objectifs, 12 mois, 52 semaines datées, budget et habitudes. 7,90 €, téléchargement immédiat, disponible en 7 langues. Tu l'imprimes pour janvier ? Lien : https://livriko.com/famille/planner-2027-a-imprimer",
+      "hashtags_conseilles": "#livriko #calendrierdelavent #planner2027 #cadeau #pdf",
+      "note": "demandée par l'utilisateur le 28/11 (URL du produit) ; prévue pour le passage TikTok du 01/12 01:32 = jour 1 de l'Avent ; type livre_payant = suite normale de l'alternance après la vidéo 04"
+    }
+  ],
   "videos_preparees_publiees": [
     {
       "fichier": "videos/03-guide-livriko.mp4",
@@ -51,7 +66,9 @@
     "fond bleu étoilé vide (03)",
     "fond bleu étoilé vide (04, couverture forcée à 7 s)"
   ],
-  "musiques_recentes": [],
+  "musiques_recentes": [
+    "03-pop-funk-disco-musinova.mp3 (vidéo 05)"
+  ],
   "musiques_note": "depuis le 28/11 : musiques Pixabay choisies par l'utilisateur dans musiques/ (voir règle MUSIQUE), plus make_music.py",
   "dernier_site_marketplace_auteurs": false
 }
